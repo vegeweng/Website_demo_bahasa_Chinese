@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Lesson 2 - Cakap Mandarin Kah?</title>
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body class="is-preload">
+  <div id="wrapper">
+    <header id="header">
+      <a href="index.html" class="logo">Cakap Mandarin Kah?</a>
+    </header>
+    <nav id="nav">
+      <ul class="links">
+        <li><a href="index.html">Utama</a></li>
+        <li><a href="kamus.html">Kamus Perkataan</a></li>
+        <li><a href="alphabet.html">Alphabet</a></li>
+        <li class="active"><a href="lesson2.html">Lesson 2</a></li>
+      </ul>
+    </nav>
+    <div id="main">
+      <section class="post featured">
+        <header class="major">
+          <h2>Lesson 2: Numbers 1–10</h2>
+          <p>Learn to count in Chinese: 一 (yī), 二 (èr), 三 (sān), 四 (sì), 五 (wǔ), 六 (liù), 七 (qī), 八 (bā), 九 (jiǔ), 十 (shí)</p>
+        </header>
+      </section>
+    </div>
+    <footer id="footer">
+      <p>&copy; 2025 Cakap Mandarin Kah?</p>
+    </footer>
+  </div>
+</body>
+</html>
